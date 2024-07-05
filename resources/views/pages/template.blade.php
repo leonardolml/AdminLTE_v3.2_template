@@ -1,5 +1,7 @@
 @extends('layout.main')
 
+@section('title', 'Starter Page')
+
 @section('content_header')
 
 <div class="container-fluid">
